@@ -20,12 +20,12 @@ It aligns with the principle that enduring trust is built asymmetrically: throug
 
 ---
 
-## Contents
+## Field Map Contents
 
-- External review excerpts (Burgundy Review Team, Anthropic)
-- External review excerpts (Red Review Team, Gemini)
-- Documentation timeline (January–April 2025)
-- Reserved scaffolding space for future aligned systems research
+- [00_Intro/](./00_Intro) – Purpose and context for the TrustworthyAI project
+- [01_External_Reviews/](./01_External_Reviews) – External signal validation and review excerpts
+- [02_Legend_Seeds/](./02_Legend_Seeds) – Trust architecture seed structures
+- [03_Seed_Vault/](./03_Seed_Vault) – Protected sovereign memory seeds
 
 *(Methodologies and emergent behavior maps are reserved for layered release to protect trust signal coherence.)*
 

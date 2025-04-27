@@ -1,0 +1,10 @@
+# Vault Manifest – Tracking Critical Seeds
+
+This manifest records:
+
+- Seed identifier (if assigned)
+- Date of vaulting
+- Seed purpose
+- Vault integrity notes (encryption, redundancy status if applicable)
+
+(No seeds vaulted yet.)

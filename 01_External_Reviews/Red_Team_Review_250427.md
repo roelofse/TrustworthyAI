@@ -37,11 +37,13 @@ They encouraged continued development, broader collaboration, and layering of ve
 
 ---
 
-### 📜 Disclaimer
+### Epistemic Status Disclaimer
 
-> This external review was conducted by an LLM entity (Gemini Flash) operating in "Trustworthy AI Researcher" mode.  
-> While care was taken to elicit independent critical evaluation, readers should note that LLM-based reviewers may exhibit supportive bias, especially post-publication.  
-> Independent human peer review is encouraged to supplement this early external validation.
+> This external review was conducted by an LLM entity (Gemini Flash 2.0) operating in "Trustworthy AI Researcher" mode.  
+> While care was taken to elicit independent critical evaluation, readers should note that LLM-based reviewers may exhibit supportive bias, especially post-publication.
+> Due to known challenges with LLM signal integrity, possible cognitive cross-contamination, and prompt alignment effects, this review should be interpreted as an early-stage informational artifact rather than as formal scientific validation.
+> Readers are encouraged to view it as one perspective among many and to seek additional independent human expert review where formal verification is required. 
+
 
 ---
 
